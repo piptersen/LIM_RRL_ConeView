@@ -1,6 +1,7 @@
 # Line Intensity Mapping Animations
 Illustrative animations designed to inform of contamination by interlopers at different redshifts. Feel free to use the animations as much as you want [ just please cite/reference me :) also (not required) but would love to see if your slides if you decide to use them!]
 
+The animations are made using `manim`, and so you will need to have that installed before you can run the animations yourself. You can find a guide on installing it [here](https://docs.manim.community/en/stable/installation.html).
 
 ## To Execute / Edit for your own needs
 #### _First Option: Jupyter_
